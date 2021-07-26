@@ -18,3 +18,12 @@ Math.ceil(2.1);
 3
 Math.ceil(2.8);
 3
+//another
+ var num1=parseInt(prompt("Enter the first number:"));
+   
+         var num2=parseInt(prompt("Enter the second number"));
+      var maximum= Math.max(num1,num2);
+      document.write(maximum);
+ Math.random();
+ Math.random()*6;
+ Math.random()*6+1;
